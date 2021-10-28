@@ -1,5 +1,5 @@
 # Transformer-based-summarization
-In my response, I used some pre-trained models for summarization, as well as training the T5 model on custom data.
+In my response, I used some pre-trained models for summarization, as well as trained the T5 model on custom data.
 
 ## Pre trained Models
 - T5
