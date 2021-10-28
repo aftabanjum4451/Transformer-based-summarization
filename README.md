@@ -11,5 +11,4 @@ In my response, I used some pre-trained models for summarization, as well as tra
 
 All the pre-trained model code can seen on this jupyter notbook "Pre_train_Summarization_models.ipynb".
 
-
-Trained T5 model in news summary data set 
+## Trained T5 model in news summary data set
